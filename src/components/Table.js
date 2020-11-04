@@ -9,6 +9,7 @@ function Table() {
   
 
   return (
+    // Table
     <div>
       <div className="table">
       <div className="title">
