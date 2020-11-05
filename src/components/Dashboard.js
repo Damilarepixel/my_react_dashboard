@@ -14,8 +14,10 @@ import Table from'./Table'
 function dashboard() {
     return (
         <div className="dashBoard">
-            <h3>Welcome back, Aminat Adams &#128075;.</h3>
-            <p>Find details of KPIs below</p>
+            <div className="headline">
+                <h3>Welcome back, Aminat Adams &#128075;.</h3>
+                <p>Find details of KPIs below</p>
+            </div>
 
             <div className="accountHolders">
                 <div className="currentAccount">
